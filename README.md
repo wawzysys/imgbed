@@ -1,0 +1,2 @@
+# imgbed
+for picgo imagebed
